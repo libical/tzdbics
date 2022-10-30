@@ -1,0 +1,41 @@
+name: Build and run on GitHub Actions
+
+on:
+  push:
+    branches: [ "*" ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - uses: actions/checkout@v3
+      with:
+        repository: libical/vzic
+        ref: 7d8cd6a9307853da86998a8c42d88f38c525a894
+        path: build/vzic
+
+    - name: Get settings into GitHub Actions
+      run: |
+        . ./settings.config
+        echo "VZIC_RELEASE_NAME=$VZIC_RELEASE_NAME" >> $GITHUB_ENV
+
+    - name: Run build script
+      run: ./build.sh
+
+    - name: Commit and push changes
+      run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'tzdbics@users.noreply.github.com'
+          git add .
+          git commit -am "Update tzdata and zoneinfo to version $VZIC_RELEASE_NAME."
+          git push
+
+    - name: Archive artifacts
+      uses: actions/upload-artifact@v3
+      with:
+        name: tzdbics_${{ env.VZIC_RELEASE_NAME }}
+        path: build/out/

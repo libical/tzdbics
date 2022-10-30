@@ -1,0 +1,3 @@
+
+# don't modify the line endings of generated zoneinfo files (they use CRLF according to the specification).
+/zoneinfo/** text eol=crlf
