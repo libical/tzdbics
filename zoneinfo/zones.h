@@ -61,6 +61,7 @@ N_("America/Argentina/Jujuy");
 N_("America/Argentina/La_Rioja");
 N_("America/Argentina/Mendoza");
 N_("America/Argentina/Rio_Gallegos");
+N_("America/Argentina/Salta");
 N_("America/Argentina/San_Juan");
 N_("America/Argentina/San_Luis");
 N_("America/Argentina/Tucuman");
