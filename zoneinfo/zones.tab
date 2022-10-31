@@ -62,6 +62,7 @@
 -0325300 -0684900 America/Argentina/Mendoza
 -0513800 -0691300 America/Argentina/Rio_Gallegos
 -0313200 -0683100 America/Argentina/San_Juan
+-0331900 -0662100 America/Argentina/San_Luis
 -0264900 -0651300 America/Argentina/Tucuman
 -0544800 -0681800 America/Argentina/Ushuaia
 +0123000 -0695800 America/Aruba
@@ -204,7 +205,6 @@
 +0335300 +0353000 Asia/Beirut
 +0425400 +0743600 Asia/Bishkek
 +0045600 +1145500 Asia/Brunei
-+0223200 +0882200 Asia/Calcutta
 +0480400 +1143000 Asia/Choibalsan
 +0293400 +1063500 Asia/Chongqing
 +0065600 +0795100 Asia/Colombo
@@ -215,6 +215,7 @@
 +0383500 +0684800 Asia/Dushanbe
 +0313000 +0342800 Asia/Gaza
 +0454500 +1264100 Asia/Harbin
++0104500 +1064000 Asia/Ho_Chi_Minh
 +0221700 +1140900 Asia/Hong_Kong
 +0480100 +0913900 Asia/Hovd
 +0521600 +1042000 Asia/Irkutsk
@@ -226,6 +227,7 @@
 +0245200 +0670300 Asia/Karachi
 +0392900 +0755900 Asia/Kashgar
 +0274300 +0851900 Asia/Katmandu
++0223200 +0882200 Asia/Kolkata
 +0560100 +0925000 Asia/Krasnoyarsk
 +0031000 +1014200 Asia/Kuala_Lumpur
 +0013300 +1102000 Asia/Kuching
@@ -246,7 +248,6 @@
 +0444800 +0652800 Asia/Qyzylorda
 +0164700 +0961000 Asia/Rangoon
 +0243800 +0464300 Asia/Riyadh
-+0104500 +1064000 Asia/Saigon
 +0465800 +1424200 Asia/Sakhalin
 +0394000 +0664800 Asia/Samarkand
 +0373300 +1265800 Asia/Seoul
