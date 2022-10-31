@@ -190,6 +190,7 @@ N_("America/Yellowknife");
 N_("Antarctica/Casey");
 N_("Antarctica/Davis");
 N_("Antarctica/DumontDUrville");
+N_("Antarctica/Macquarie");
 N_("Antarctica/Mawson");
 N_("Antarctica/McMurdo");
 N_("Antarctica/Palmer");
