@@ -103,7 +103,6 @@ N_("America/Miquelon");
 N_("America/Moncton");
 N_("America/Monterrey");
 N_("America/Montevideo");
-N_("America/Montreal");
 N_("America/Nassau");
 N_("America/New_York");
 N_("America/Nipigon");
