@@ -211,6 +211,7 @@ N_("Asia/Oral");
 N_("Asia/Pontianak");
 N_("Asia/Pyongyang");
 N_("Asia/Qatar");
+N_("Asia/Qostanay");
 N_("Asia/Qyzylorda");
 N_("Asia/Riyadh");
 N_("Asia/Sakhalin");
