@@ -247,7 +247,6 @@ N_("Atlantic/Stanley");
 N_("Australia/Adelaide");
 N_("Australia/Brisbane");
 N_("Australia/Broken_Hill");
-N_("Australia/Currie");
 N_("Australia/Darwin");
 N_("Australia/Eucla");
 N_("Australia/Hobart");
