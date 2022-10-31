@@ -240,6 +240,7 @@ N_("Asia/Makassar");
 N_("Asia/Manila");
 N_("Asia/Muscat");
 N_("Asia/Nicosia");
+N_("Asia/Novokuznetsk");
 N_("Asia/Novosibirsk");
 N_("Asia/Omsk");
 N_("Asia/Oral");
