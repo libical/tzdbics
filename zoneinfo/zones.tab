@@ -1,21 +1,15 @@
 +0051900 -0040200 Africa/Abidjan
 +0053300 +0001300 Africa/Accra
-+0090200 +0384200 Africa/Addis_Ababa
 +0364700 +0030300 Africa/Algiers
-+0152000 +0385300 Africa/Asmara
 +0115100 -0153500 Africa/Bissau
 +0300300 +0311500 Africa/Cairo
 +0333900 -0073500 Africa/Casablanca
 +0355300 -0051900 Africa/Ceuta
--0064800 +0391700 Africa/Dar_es_Salaam
-+0113600 +0430900 Africa/Djibouti
 +0270900 -0131200 Africa/El_Aaiun
 -0261500 +0280000 Africa/Johannesburg
-+0001900 +0322500 Africa/Kampala
 +0153600 +0323200 Africa/Khartoum
 +0062700 +0032400 Africa/Lagos
 -0255800 +0323500 Africa/Maputo
-+0020400 +0452200 Africa/Mogadishu
 +0061800 -0104700 Africa/Monrovia
 -0011700 +0364900 Africa/Nairobi
 +0120700 +0150300 Africa/Ndjamena
@@ -338,16 +332,13 @@ Etc/UTC
 +0475000 +0351000 Europe/Zaporozhye
 +0472300 +0083200 Europe/Zurich
 HST
--0185500 +0473100 Indian/Antananarivo
 -0072000 +0722500 Indian/Chagos
 -0102500 +1054300 Indian/Christmas
 -0121000 +0965500 Indian/Cocos
--0114100 +0431600 Indian/Comoro
 -0492110 +0701303 Indian/Kerguelen
 -0044000 +0552800 Indian/Mahe
 +0041000 +0733000 Indian/Maldives
 -0201000 +0573000 Indian/Mauritius
--0124700 +0451400 Indian/Mayotte
 -0205200 +0552800 Indian/Reunion
 MET
 MST
