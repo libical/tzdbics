@@ -46,7 +46,6 @@
 +0122200 -0013100 Africa/Ouagadougou
 +0062900 +0023700 Africa/Porto-Novo
 +0002000 +0064400 Africa/Sao_Tome
-+0144600 -0030100 Africa/Timbuktu
 +0325400 +0131100 Africa/Tripoli
 +0364800 +0101100 Africa/Tunis
 -0223400 +0170600 Africa/Windhoek
@@ -57,7 +56,6 @@
 -0071200 -0481200 America/Araguaina
 -0343600 -0582700 America/Argentina/Buenos_Aires
 -0282800 -0654700 America/Argentina/Catamarca
--0455200 -0673000 America/Argentina/ComodRivadavia
 -0312400 -0641100 America/Argentina/Cordoba
 -0241100 -0651800 America/Argentina/Jujuy
 -0292600 -0665100 America/Argentina/La_Rioja
@@ -83,6 +81,7 @@
 +0191800 -0812300 America/Cayman
 +0415100 -0873900 America/Chicago
 +0283800 -1060500 America/Chihuahua
++0640800 -0831000 America/Coral_Harbour
 +0095600 -0840500 America/Costa_Rica
 -0153500 -0560500 America/Cuiaba
 +0121100 -0690000 America/Curacao
@@ -108,19 +107,19 @@
 +0443900 -0633600 America/Halifax
 +0230800 -0822200 America/Havana
 +0290400 -1105800 America/Hermosillo
++0394606 -0860929 America/Indiana/Indianapolis
 +0411745 -0863730 America/Indiana/Knox
 +0382232 -0862041 America/Indiana/Marengo
 +0384452 -0850402 America/Indiana/Vevay
-+0394606 -0860929 America/Indianapolis
 +0682500 -1133000 America/Inuvik
 +0634400 -0682800 America/Iqaluit
 +0180000 -0764800 America/Jamaica
 +0581807 -1342511 America/Juneau
++0381515 -0854534 America/Kentucky/Louisville
 +0364947 -0845057 America/Kentucky/Monticello
 -0163000 -0680900 America/La_Paz
 -0120300 -0770300 America/Lima
 +0340308 -1181434 America/Los_Angeles
-+0381515 -0854534 America/Louisville
 -0094000 -0354300 America/Maceio
 +0120900 -0861700 America/Managua
 -0030800 -0600100 America/Manaus
@@ -271,6 +270,7 @@
 -0345500 +1383500 Australia/Adelaide
 -0272800 +1530200 Australia/Brisbane
 -0315700 +1412700 Australia/Broken_Hill
+-0395600 +1435200 Australia/Currie
 -0122800 +1305000 Australia/Darwin
 -0425300 +1471900 Australia/Hobart
 -0201600 +1490000 Australia/Lindeman
@@ -312,7 +312,6 @@ Etc/UTC
 +0522200 +0045400 Europe/Amsterdam
 +0423000 +0013100 Europe/Andorra
 +0375800 +0234300 Europe/Athens
-+0543500 -0055500 Europe/Belfast
 +0445000 +0203000 Europe/Belgrade
 +0523000 +0132200 Europe/Berlin
 +0505000 +0042000 Europe/Brussels
@@ -402,5 +401,4 @@ MET
 +0072500 +1514700 Pacific/Truk
 +0191700 +1663700 Pacific/Wake
 -0131800 -1761000 Pacific/Wallis
-+0093100 +1380800 Pacific/Yap
 WET
