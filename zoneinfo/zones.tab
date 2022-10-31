@@ -20,7 +20,7 @@
 +0040300 +0094200 Africa/Douala
 +0270900 -0131200 Africa/El_Aaiun
 +0083000 -0131500 Africa/Freetown
--0254500 +0255500 Africa/Gaborone
+-0243900 +0255500 Africa/Gaborone
 -0175000 +0310300 Africa/Harare
 -0261500 +0280000 Africa/Johannesburg
 +0001900 +0322500 Africa/Kampala
@@ -407,7 +407,7 @@ PST8PDT
 +0003100 +1665500 Pacific/Nauru
 -0190100 -1695500 Pacific/Niue
 -0290300 +1675800 Pacific/Norfolk
--0221600 +1653000 Pacific/Noumea
+-0221600 +1662700 Pacific/Noumea
 -0141600 -1704200 Pacific/Pago_Pago
 +0072000 +1342900 Pacific/Palau
 -0250400 -1300500 Pacific/Pitcairn
@@ -417,7 +417,7 @@ PST8PDT
 +0151200 +1454500 Pacific/Saipan
 -0173200 -1493400 Pacific/Tahiti
 +0012500 +1730000 Pacific/Tarawa
--0211000 +1751000 Pacific/Tongatapu
+-0211000 -1751000 Pacific/Tongatapu
 +0072500 +1514700 Pacific/Truk
 +0191700 +1663700 Pacific/Wake
 -0131800 -1761000 Pacific/Wallis
