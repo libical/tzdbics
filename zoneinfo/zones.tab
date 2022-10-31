@@ -136,13 +136,13 @@
 +0332654 -1120424 America/Phoenix
 +0183200 -0722000 America/Port-au-Prince
 +0103900 -0613100 America/Port_of_Spain
--0093400 -0673100 America/Porto_Acre
 -0084600 -0635400 America/Porto_Velho
 +0182806 -0660622 America/Puerto_Rico
 +0484300 -0942900 America/Rainy_River
 +0624500 -0921000 America/Rankin_Inlet
 -0080300 -0345400 America/Recife
 +0502400 -1043900 America/Regina
+-0095800 -0674800 America/Rio_Branco
 -0325700 -0604000 America/Rosario
 -0332700 -0704000 America/Santiago
 +0182800 -0695400 America/Santo_Domingo
@@ -171,6 +171,7 @@
 -0775000 +1663600 Antarctica/McMurdo
 -0644800 -0640600 Antarctica/Palmer
 -0690022 +0393524 Antarctica/Syowa
+-0782400 +1065400 Antarctica/Vostok
 +0124500 +0451200 Asia/Aden
 +0431500 +0765700 Asia/Almaty
 +0315700 +0355600 Asia/Amman
@@ -329,7 +330,6 @@ Etc/UTC
 +0592000 +0180300 Europe/Stockholm
 +0592500 +0244500 Europe/Tallinn
 +0412000 +0195000 Europe/Tirane
-+0465100 +0293800 Europe/Tiraspol
 +0483700 +0221800 Europe/Uzhgorod
 +0470900 +0093100 Europe/Vaduz
 +0481300 +0162000 Europe/Vienna
