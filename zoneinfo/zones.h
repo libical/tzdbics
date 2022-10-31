@@ -47,6 +47,7 @@ N_("America/Campo_Grande");
 N_("America/Cancun");
 N_("America/Caracas");
 N_("America/Cayenne");
+N_("America/Cayman");
 N_("America/Chicago");
 N_("America/Chihuahua");
 N_("America/Costa_Rica");
