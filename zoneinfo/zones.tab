@@ -219,6 +219,7 @@
 +0550200 +0825500 Asia/Novosibirsk
 +0550000 +0732400 Asia/Omsk
 +0113300 +1045500 Asia/Phnom_Penh
++0000200 +1092000 Asia/Pontianak
 +0390100 +1254500 Asia/Pyongyang
 +0251700 +0513200 Asia/Qatar
 +0164700 +0961000 Asia/Rangoon
@@ -247,7 +248,6 @@
 +0280600 -0152400 Atlantic/Canary
 +0145500 -0233100 Atlantic/Cape_Verde
 +0620100 -0064600 Atlantic/Faeroe
-+0705900 -0080500 Atlantic/Jan_Mayen
 +0323800 -0165400 Atlantic/Madeira
 +0640900 -0215100 Atlantic/Reykjavik
 -0541600 -0363200 Atlantic/South_Georgia
