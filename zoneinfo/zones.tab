@@ -57,6 +57,7 @@
 -0071200 -0481200 America/Araguaina
 +0123000 -0685800 America/Aruba
 -0251600 -0574000 America/Asuncion
+-0125900 -0383100 America/Bahia
 +0130600 -0593700 America/Barbados
 -0012700 -0482900 America/Belem
 +0173000 -0881200 America/Belize
@@ -65,6 +66,7 @@
 +0433649 -1161209 America/Boise
 -0343600 -0582700 America/Buenos_Aires
 +0690300 -1050500 America/Cambridge_Bay
+-0202700 -0543700 America/Campo_Grande
 +0210500 -0864600 America/Cancun
 +0103000 -0665600 America/Caracas
 -0282800 -0654700 America/Catamarca
@@ -159,6 +161,7 @@
 +0763400 -0684700 America/Thule
 +0482300 -0891500 America/Thunder_Bay
 +0323200 -1170100 America/Tijuana
++0433900 -0792300 America/Toronto
 +0182700 -0643700 America/Tortola
 +0491600 -1230700 America/Vancouver
 +0604300 -1350300 America/Whitehorse
@@ -357,7 +360,7 @@ Etc/UTC
 MET
 -0135000 -1714400 Pacific/Apia
 -0365200 +1744600 Pacific/Auckland
--0435500 -1763000 Pacific/Chatham
+-0435700 -1763300 Pacific/Chatham
 -0271000 -1092700 Pacific/Easter
 -0174000 +1682500 Pacific/Efate
 -0030800 -1710500 Pacific/Enderbury
