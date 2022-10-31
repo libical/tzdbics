@@ -392,6 +392,7 @@ PST8PDT
 -0135000 -1714400 Pacific/Apia
 -0365200 +1744600 Pacific/Auckland
 -0435700 -1763300 Pacific/Chatham
++0072500 +1514700 Pacific/Chuuk
 -0270900 -1092600 Pacific/Easter
 -0174000 +1682500 Pacific/Efate
 -0030800 -1710500 Pacific/Enderbury
@@ -417,14 +418,13 @@ PST8PDT
 -0141600 -1704200 Pacific/Pago_Pago
 +0072000 +1342900 Pacific/Palau
 -0250400 -1300500 Pacific/Pitcairn
-+0065800 +1581300 Pacific/Ponape
++0065800 +1581300 Pacific/Pohnpei
 -0093000 +1471000 Pacific/Port_Moresby
 -0211400 -1594600 Pacific/Rarotonga
 +0151200 +1454500 Pacific/Saipan
 -0173200 -1493400 Pacific/Tahiti
 +0012500 +1730000 Pacific/Tarawa
 -0211000 -1751000 Pacific/Tongatapu
-+0072500 +1514700 Pacific/Truk
 +0191700 +1663700 Pacific/Wake
 -0131800 -1761000 Pacific/Wallis
 WET
