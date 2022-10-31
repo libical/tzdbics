@@ -145,7 +145,6 @@
 -0080300 -0345400 America/Recife
 +0502400 -1043900 America/Regina
 -0095800 -0674800 America/Rio_Branco
--0325700 -0604000 America/Rosario
 -0332700 -0704000 America/Santiago
 +0182800 -0695400 America/Santo_Domingo
 -0233200 -0463700 America/Sao_Paulo
@@ -216,6 +215,7 @@
 +0292000 +0475900 Asia/Kuwait
 +0221400 +1133500 Asia/Macau
 +0593400 +1504800 Asia/Magadan
+-0050700 +1192400 Asia/Makassar
 +0143500 +1210000 Asia/Manila
 +0233600 +0583500 Asia/Muscat
 +0351000 +0332200 Asia/Nicosia
@@ -241,7 +241,6 @@
 +0354000 +0512600 Asia/Tehran
 +0272800 +0893900 Asia/Thimphu
 +0353916 +1394441 Asia/Tokyo
--0050700 +1192400 Asia/Ujung_Pandang
 +0475500 +1065300 Asia/Ulaanbaatar
 +0434800 +0873500 Asia/Urumqi
 +0175800 +1023600 Asia/Vientiane
