@@ -2,7 +2,7 @@
 +0053300 +0001300 Africa/Accra
 +0090200 +0384200 Africa/Addis_Ababa
 +0364700 +0030300 Africa/Algiers
-+0152000 +0385300 Africa/Asmera
++0152000 +0385300 Africa/Asmara
 +0123900 -0080000 Africa/Bamako
 +0042200 +0183500 Africa/Bangui
 +0132800 -0163900 Africa/Banjul
@@ -266,7 +266,7 @@
 +0321700 -0644600 Atlantic/Bermuda
 +0280600 -0152400 Atlantic/Canary
 +0145500 -0233100 Atlantic/Cape_Verde
-+0620100 -0064600 Atlantic/Faeroe
++0620100 -0064600 Atlantic/Faroe
 +0323800 -0165400 Atlantic/Madeira
 +0640900 -0215100 Atlantic/Reykjavik
 -0541600 -0363200 Atlantic/South_Georgia
@@ -277,6 +277,7 @@
 -0315700 +1412700 Australia/Broken_Hill
 -0395600 +1435200 Australia/Currie
 -0122800 +1305000 Australia/Darwin
+-0314300 +1285200 Australia/Eucla
 -0425300 +1471900 Australia/Hobart
 -0201600 +1490000 Australia/Lindeman
 -0313300 +1590500 Australia/Lord_Howe
@@ -379,7 +380,7 @@ PST8PDT
 -0135000 -1714400 Pacific/Apia
 -0365200 +1744600 Pacific/Auckland
 -0435700 -1763300 Pacific/Chatham
--0271000 -1092700 Pacific/Easter
+-0270900 -1092600 Pacific/Easter
 -0174000 +1682500 Pacific/Efate
 -0030800 -1710500 Pacific/Enderbury
 -0092200 -1711400 Pacific/Fakaofo
