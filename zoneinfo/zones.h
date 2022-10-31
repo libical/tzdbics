@@ -70,6 +70,7 @@ N_("America/Aruba");
 N_("America/Asuncion");
 N_("America/Atikokan");
 N_("America/Bahia");
+N_("America/Bahia_Banderas");
 N_("America/Barbados");
 N_("America/Belem");
 N_("America/Belize");
