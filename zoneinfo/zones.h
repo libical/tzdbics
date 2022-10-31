@@ -370,6 +370,7 @@ N_("Europe/Sofia");
 N_("Europe/Stockholm");
 N_("Europe/Tallinn");
 N_("Europe/Tirane");
+N_("Europe/Tiraspol");
 N_("Europe/Uzhgorod");
 N_("Europe/Vaduz");
 N_("Europe/Vienna");
