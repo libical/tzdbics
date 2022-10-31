@@ -1,5 +1,4 @@
 +0051900 -0040200 Africa/Abidjan
-+0053300 +0001300 Africa/Accra
 +0364700 +0030300 Africa/Algiers
 +0115100 -0153500 Africa/Bissau
 +0300300 +0311500 Africa/Cairo
@@ -34,13 +33,11 @@
 -0264900 -0651300 America/Argentina/Tucuman
 -0544800 -0681800 America/Argentina/Ushuaia
 -0251600 -0574000 America/Asuncion
-+0484531 -0913718 America/Atikokan
 -0125900 -0383100 America/Bahia
 +0204800 -1051500 America/Bahia_Banderas
 +0130600 -0593700 America/Barbados
 -0012700 -0482900 America/Belem
 +0173000 -0881200 America/Belize
-+0512500 -0570700 America/Blanc-Sablon
 +0024900 -0604000 America/Boa_Vista
 +0043600 -0740500 America/Bogota
 +0433649 -1161209 America/Boise
@@ -52,9 +49,7 @@
 +0415100 -0873900 America/Chicago
 +0283800 -1060500 America/Chihuahua
 +0095600 -0840500 America/Costa_Rica
-+0490600 -1163100 America/Creston
 -0153500 -0560500 America/Cuiaba
-+0121100 -0690000 America/Curacao
 +0764600 -0184000 America/Danmarkshavn
 +0640400 -1392500 America/Dawson
 +0594600 -1201400 America/Dawson_Creek
@@ -105,7 +100,6 @@
 +0460600 -0644700 America/Moncton
 +0254000 -1001900 America/Monterrey
 -0345433 -0561245 America/Montevideo
-+0250500 -0772100 America/Nassau
 +0404251 -0740023 America/New_York
 +0490100 -0881600 America/Nipigon
 +0643004 -1652423 America/Nome
@@ -120,7 +114,6 @@
 +0055000 -0551000 America/Paramaribo
 +0332654 -1120424 America/Phoenix
 +0183200 -0722000 America/Port-au-Prince
-+0103900 -0613100 America/Port_of_Spain
 -0084600 -0635400 America/Porto_Velho
 +0182806 -0660622 America/Puerto_Rico
 -0530900 -0705500 America/Punta_Arenas
@@ -150,12 +143,10 @@
 +0622700 -1142100 America/Yellowknife
 -0661700 +1103100 Antarctica/Casey
 -0683500 +0775800 Antarctica/Davis
--0664000 +1400100 Antarctica/DumontDUrville
 -0543000 +1585700 Antarctica/Macquarie
 -0673600 +0625300 Antarctica/Mawson
 -0644800 -0640600 Antarctica/Palmer
 -0673400 -0680800 Antarctica/Rothera
--0690022 +0393524 Antarctica/Syowa
 -0720041 +0023206 Antarctica/Troll
 -0782400 +1065400 Antarctica/Vostok
 +0431500 +0765700 Asia/Almaty
@@ -354,7 +345,6 @@ PST8PDT
 +0072500 +1514700 Pacific/Chuuk
 -0270900 -1092600 Pacific/Easter
 -0174000 +1682500 Pacific/Efate
--0030800 -1710500 Pacific/Enderbury
 -0092200 -1711400 Pacific/Fakaofo
 -0180800 +1782500 Pacific/Fiji
 -0083100 +1791300 Pacific/Funafuti
@@ -363,6 +353,7 @@ PST8PDT
 -0093200 +1601200 Pacific/Guadalcanal
 +0132800 +1444500 Pacific/Guam
 +0211825 -1575130 Pacific/Honolulu
+-0024700 -1714300 Pacific/Kanton
 +0015200 -1572000 Pacific/Kiritimati
 +0051900 +1625900 Pacific/Kosrae
 +0090500 +1672000 Pacific/Kwajalein
@@ -380,7 +371,7 @@ PST8PDT
 -0211400 -1594600 Pacific/Rarotonga
 -0173200 -1493400 Pacific/Tahiti
 +0012500 +1730000 Pacific/Tarawa
--0211000 -1751000 Pacific/Tongatapu
+-0210800 -1751200 Pacific/Tongatapu
 +0191700 +1663700 Pacific/Wake
 -0131800 -1761000 Pacific/Wallis
 WET
