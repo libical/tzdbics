@@ -288,7 +288,6 @@ N_("Etc/GMT-6");
 N_("Etc/GMT-7");
 N_("Etc/GMT-8");
 N_("Etc/GMT-9");
-N_("Etc/UCT");
 N_("Etc/UTC");
 N_("Europe/Amsterdam");
 N_("Europe/Andorra");
