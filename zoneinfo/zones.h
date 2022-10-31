@@ -148,6 +148,7 @@ N_("America/New_York");
 N_("America/Nipigon");
 N_("America/Nome");
 N_("America/Noronha");
+N_("America/North_Dakota/Beulah");
 N_("America/North_Dakota/Center");
 N_("America/North_Dakota/New_Salem");
 N_("America/Ojinaga");
