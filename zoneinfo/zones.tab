@@ -131,6 +131,7 @@
 +0120900 -0861700 America/Managua
 -0030800 -0600100 America/Manaus
 +0143600 -0610500 America/Martinique
++0255000 -0973000 America/Matamoros
 +0231300 -1062500 America/Mazatlan
 +0450628 -0873651 America/Menominee
 +0205800 -0893700 America/Merida
@@ -148,6 +149,7 @@
 -0035100 -0322500 America/Noronha
 +0470659 -1011757 America/North_Dakota/Center
 +0465042 -1012439 America/North_Dakota/New_Salem
++0293400 -1042500 America/Ojinaga
 +0085800 -0793200 America/Panama
 +0660800 -0654400 America/Pangnirtung
 +0055000 -0551000 America/Paramaribo
@@ -162,6 +164,7 @@
 +0502400 -1043900 America/Regina
 +0744144 -0944945 America/Resolute
 -0095800 -0674800 America/Rio_Branco
++0301800 -1145200 America/Santa_Isabel
 -0022600 -0545200 America/Santarem
 -0332700 -0704000 America/Santiago
 +0182800 -0695400 America/Santo_Domingo
