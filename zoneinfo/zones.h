@@ -157,6 +157,7 @@ N_("America/Rainy_River");
 N_("America/Rankin_Inlet");
 N_("America/Recife");
 N_("America/Regina");
+N_("America/Resolute");
 N_("America/Rio_Branco");
 N_("America/Santiago");
 N_("America/Santo_Domingo");
