@@ -279,7 +279,10 @@
 -0315700 +1155100 Australia/Perth
 -0335200 +1511300 Australia/Sydney
 CET
+CST6CDT
 EET
+EST
+EST5EDT
 Etc/GMT
 Etc/GMT+1
 Etc/GMT+10
@@ -351,6 +354,7 @@ Etc/UTC
 +0521500 +0210000 Europe/Warsaw
 +0475000 +0351000 Europe/Zaporozhye
 +0472300 +0083200 Europe/Zurich
+HST
 -0185500 +0473100 Indian/Antananarivo
 -0072000 +0722500 Indian/Chagos
 -0102500 +1054300 Indian/Christmas
@@ -363,6 +367,9 @@ Etc/UTC
 -0124700 +0451400 Indian/Mayotte
 -0205200 +0552800 Indian/Reunion
 MET
+MST
+MST7MDT
+PST8PDT
 -0135000 -1714400 Pacific/Apia
 -0365200 +1744600 Pacific/Auckland
 -0435700 -1763300 Pacific/Chatham
