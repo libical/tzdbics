@@ -215,7 +215,6 @@ America/Montreal
 +0550200 +0825500 Asia/Novosibirsk
 +0550000 +0732400 Asia/Omsk
 +0511300 +0512100 Asia/Oral
-+0113300 +1045500 Asia/Phnom_Penh
 +0000200 +1092000 Asia/Pontianak
 +0390100 +1254500 Asia/Pyongyang
 +0251700 +0513200 Asia/Qatar
@@ -237,7 +236,6 @@ America/Montreal
 +0475500 +1065300 Asia/Ulaanbaatar
 +0434800 +0873500 Asia/Urumqi
 +0643337 +1431336 Asia/Ust-Nera
-+0175800 +1023600 Asia/Vientiane
 +0431000 +1315600 Asia/Vladivostok
 +0620000 +1294000 Asia/Yakutsk
 +0565100 +0603600 Asia/Yekaterinburg
@@ -357,6 +355,7 @@ MST7MDT
 PST8PDT
 -0135000 -1714400 Pacific/Apia
 -0365200 +1744600 Pacific/Auckland
+-0061300 +1553400 Pacific/Bougainville
 -0435700 -1763300 Pacific/Chatham
 +0072500 +1514700 Pacific/Chuuk
 -0270900 -1092600 Pacific/Easter
