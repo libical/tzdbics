@@ -161,6 +161,7 @@
 +0443100 +0501600 Asia/Aqtau
 +0501700 +0571000 Asia/Aqtobe
 +0375700 +0582300 Asia/Ashgabat
++0470700 +0515600 Asia/Atyrau
 +0332100 +0442500 Asia/Baghdad
 +0402300 +0495100 Asia/Baku
 +0134500 +1003100 Asia/Bangkok
@@ -317,6 +318,7 @@ Etc/UTC
 +0565700 +0240600 Europe/Riga
 +0415400 +0122900 Europe/Rome
 +0531200 +0500900 Europe/Samara
++0513400 +0460200 Europe/Saratov
 +0445700 +0340600 Europe/Simferopol
 +0424100 +0231900 Europe/Sofia
 +0592000 +0180300 Europe/Stockholm
