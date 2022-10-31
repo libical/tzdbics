@@ -3,9 +3,7 @@
 +0090200 +0384200 Africa/Addis_Ababa
 +0364700 +0030300 Africa/Algiers
 +0152000 +0385300 Africa/Asmara
-+0123900 -0080000 Africa/Bamako
 +0042200 +0183500 Africa/Bangui
-+0132800 -0163900 Africa/Banjul
 +0115100 -0153500 Africa/Bissau
 -0154700 +0350000 Africa/Blantyre
 -0041600 +0151700 Africa/Brazzaville
@@ -13,13 +11,10 @@
 +0300300 +0311500 Africa/Cairo
 +0333900 -0073500 Africa/Casablanca
 +0355300 -0051900 Africa/Ceuta
-+0093100 -0134300 Africa/Conakry
-+0144000 -0172600 Africa/Dakar
 -0064800 +0391700 Africa/Dar_es_Salaam
 +0113600 +0430900 Africa/Djibouti
 +0040300 +0094200 Africa/Douala
 +0270900 -0131200 Africa/El_Aaiun
-+0083000 -0131500 Africa/Freetown
 -0243900 +0255500 Africa/Gaborone
 -0175000 +0310300 Africa/Harare
 -0261500 +0280000 Africa/Johannesburg
@@ -29,7 +24,6 @@
 -0041800 +0151800 Africa/Kinshasa
 +0062700 +0032400 Africa/Lagos
 +0002300 +0092700 Africa/Libreville
-+0060800 +0011300 Africa/Lome
 -0084800 +0131400 Africa/Luanda
 -0114000 +0272800 Africa/Lubumbashi
 -0152500 +0281700 Africa/Lusaka
@@ -42,10 +36,7 @@
 -0011700 +0364900 Africa/Nairobi
 +0120700 +0150300 Africa/Ndjamena
 +0133100 +0020700 Africa/Niamey
-+0180600 -0155700 Africa/Nouakchott
-+0122200 -0013100 Africa/Ouagadougou
 +0062900 +0023700 Africa/Porto-Novo
-+0002000 +0064400 Africa/Sao_Tome
 +0325400 +0131100 Africa/Tripoli
 +0364800 +0101100 Africa/Tunis
 -0223400 +0170600 Africa/Windhoek
@@ -205,8 +196,8 @@ America/Montreal
 +0335300 +0353000 Asia/Beirut
 +0425400 +0743600 Asia/Bishkek
 +0045600 +1145500 Asia/Brunei
++0520300 +1132800 Asia/Chita
 +0480400 +1143000 Asia/Choibalsan
-+0293400 +1063500 Asia/Chongqing
 +0065600 +0795100 Asia/Colombo
 +0333000 +0361800 Asia/Damascus
 +0234300 +0902500 Asia/Dhaka
@@ -214,7 +205,6 @@ America/Montreal
 +0251800 +0551800 Asia/Dubai
 +0383500 +0684800 Asia/Dushanbe
 +0313000 +0342800 Asia/Gaza
-+0454500 +1264100 Asia/Harbin
 +0313200 +0350542 Asia/Hebron
 +0104500 +1064000 Asia/Ho_Chi_Minh
 +0221700 +1140900 Asia/Hong_Kong
@@ -226,7 +216,6 @@ America/Montreal
 +0343100 +0691200 Asia/Kabul
 +0530100 +1583900 Asia/Kamchatka
 +0245200 +0670300 Asia/Karachi
-+0392900 +0755900 Asia/Kashgar
 +0274300 +0851900 Asia/Kathmandu
 +0623923 +1353314 Asia/Khandyga
 +0223200 +0882200 Asia/Kolkata
@@ -256,6 +245,7 @@ America/Montreal
 +0373300 +1265800 Asia/Seoul
 +0311400 +1212800 Asia/Shanghai
 +0011700 +1035100 Asia/Singapore
++0672800 +1534300 Asia/Srednekolymsk
 +0250300 +1213000 Asia/Taipei
 +0412000 +0691800 Asia/Tashkent
 +0414300 +0444900 Asia/Tbilisi
@@ -278,7 +268,6 @@ America/Montreal
 +0323800 -0165400 Atlantic/Madeira
 +0640900 -0215100 Atlantic/Reykjavik
 -0541600 -0363200 Atlantic/South_Georgia
--0155500 -0054200 Atlantic/St_Helena
 -0514200 -0575100 Atlantic/Stanley
 -0345500 +1383500 Australia/Adelaide
 -0272800 +1530200 Australia/Brisbane
@@ -349,7 +338,7 @@ Etc/UTC
 +0355400 +0143100 Europe/Malta
 +0535400 +0273400 Europe/Minsk
 +0434200 +0072300 Europe/Monaco
-+0554500 +0373500 Europe/Moscow
++0554521 +0373704 Europe/Moscow
 +0595500 +0104500 Europe/Oslo
 +0485200 +0022000 Europe/Paris
 +0500500 +0142600 Europe/Prague
