@@ -114,6 +114,7 @@ N_("America/Indiana/Marengo");
 N_("America/Indiana/Petersburg");
 N_("America/Indiana/Vevay");
 N_("America/Indiana/Vincennes");
+N_("America/Indiana/Winamac");
 N_("America/Inuvik");
 N_("America/Iqaluit");
 N_("America/Jamaica");
