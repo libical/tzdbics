@@ -158,7 +158,6 @@ America/Montreal
 -0690022 +0393524 Antarctica/Syowa
 -0720041 +0023206 Antarctica/Troll
 -0782400 +1065400 Antarctica/Vostok
-+0124500 +0451200 Asia/Aden
 +0431500 +0765700 Asia/Almaty
 +0315700 +0355600 Asia/Amman
 +0644500 +1772900 Asia/Anadyr
@@ -166,7 +165,6 @@ America/Montreal
 +0501700 +0571000 Asia/Aqtobe
 +0375700 +0582300 Asia/Ashgabat
 +0332100 +0442500 Asia/Baghdad
-+0262300 +0503500 Asia/Bahrain
 +0402300 +0495100 Asia/Baku
 +0134500 +1003100 Asia/Bangkok
 +0335300 +0353000 Asia/Beirut
@@ -198,12 +196,10 @@ America/Montreal
 +0560100 +0925000 Asia/Krasnoyarsk
 +0031000 +1014200 Asia/Kuala_Lumpur
 +0013300 +1102000 Asia/Kuching
-+0292000 +0475900 Asia/Kuwait
 +0221400 +1133500 Asia/Macau
 +0593400 +1504800 Asia/Magadan
 -0050700 +1192400 Asia/Makassar
 +0143500 +1210000 Asia/Manila
-+0233600 +0583500 Asia/Muscat
 +0351000 +0332200 Asia/Nicosia
 +0534500 +0870700 Asia/Novokuznetsk
 +0550200 +0825500 Asia/Novosibirsk
