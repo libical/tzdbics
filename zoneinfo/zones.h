@@ -62,6 +62,7 @@ N_("America/Detroit");
 N_("America/Edmonton");
 N_("America/Eirunepe");
 N_("America/El_Salvador");
+N_("America/Fort_Nelson");
 N_("America/Fortaleza");
 N_("America/Glace_Bay");
 N_("America/Godthab");
