@@ -164,6 +164,7 @@
 +0332100 +0442500 Asia/Baghdad
 +0402300 +0495100 Asia/Baku
 +0134500 +1003100 Asia/Bangkok
++0532200 +0834500 Asia/Barnaul
 +0335300 +0353000 Asia/Beirut
 +0425400 +0743600 Asia/Bishkek
 +0045600 +1145500 Asia/Brunei
@@ -284,6 +285,7 @@ Etc/UCT
 Etc/UTC
 +0522200 +0045400 Europe/Amsterdam
 +0423000 +0013100 Europe/Andorra
++0462100 +0480300 Europe/Astrakhan
 +0375800 +0234300 Europe/Athens
 +0445000 +0203000 Europe/Belgrade
 +0523000 +0132200 Europe/Berlin
@@ -317,6 +319,7 @@ Etc/UTC
 +0592000 +0180300 Europe/Stockholm
 +0592500 +0244500 Europe/Tallinn
 +0412000 +0195000 Europe/Tirane
++0542000 +0482400 Europe/Ulyanovsk
 +0483700 +0221800 Europe/Uzhgorod
 +0481300 +0162000 Europe/Vienna
 +0544100 +0251900 Europe/Vilnius
