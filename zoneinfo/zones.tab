@@ -82,6 +82,7 @@
 +0421953 -0830245 America/Detroit
 +0151800 -0612400 America/Dominica
 +0533300 -1132800 America/Edmonton
+-0064000 -0695200 America/Eirunepe
 +0134200 -0891200 America/El_Salvador
 -0034300 -0383000 America/Fortaleza
 +0461200 -0595700 America/Glace_Bay
@@ -140,6 +141,7 @@
 +0182806 -0660622 America/Puerto_Rico
 +0484300 -0942900 America/Rainy_River
 +0624500 -0921000 America/Rankin_Inlet
+-0080300 -0345400 America/Recife
 +0502400 -1043900 America/Regina
 -0325700 -0604000 America/Rosario
 -0332700 -0704000 America/Santiago
@@ -186,8 +188,8 @@
 +0223200 +0882200 Asia/Calcutta
 +0293400 +1063500 Asia/Chungking
 +0065600 +0795100 Asia/Colombo
-+0234300 +0902500 Asia/Dacca
 +0333000 +0361800 Asia/Damascus
++0234300 +0902500 Asia/Dhaka
 -0083300 +1253500 Asia/Dili
 +0251800 +0551800 Asia/Dubai
 +0383500 +0684800 Asia/Dushanbe
