@@ -228,7 +228,7 @@ N_("Asia/Kabul");
 N_("Asia/Kamchatka");
 N_("Asia/Karachi");
 N_("Asia/Kashgar");
-N_("Asia/Katmandu");
+N_("Asia/Kathmandu");
 N_("Asia/Kolkata");
 N_("Asia/Krasnoyarsk");
 N_("Asia/Kuala_Lumpur");
