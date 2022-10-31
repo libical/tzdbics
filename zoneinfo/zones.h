@@ -88,6 +88,7 @@ N_("America/Cayman");
 N_("America/Chicago");
 N_("America/Chihuahua");
 N_("America/Costa_Rica");
+N_("America/Creston");
 N_("America/Cuiaba");
 N_("America/Curacao");
 N_("America/Danmarkshavn");
