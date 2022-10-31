@@ -23,6 +23,7 @@ N_("Africa/Freetown");
 N_("Africa/Gaborone");
 N_("Africa/Harare");
 N_("Africa/Johannesburg");
+N_("Africa/Juba");
 N_("Africa/Kampala");
 N_("Africa/Khartoum");
 N_("Africa/Kigali");
