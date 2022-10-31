@@ -121,6 +121,7 @@ N_("America/Port-au-Prince");
 N_("America/Port_of_Spain");
 N_("America/Porto_Velho");
 N_("America/Puerto_Rico");
+N_("America/Punta_Arenas");
 N_("America/Rainy_River");
 N_("America/Rankin_Inlet");
 N_("America/Recife");
