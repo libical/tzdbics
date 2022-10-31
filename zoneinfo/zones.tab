@@ -52,7 +52,7 @@
 -0153500 -0560500 America/Cuiaba
 +0764600 -0184000 America/Danmarkshavn
 +0640400 -1392500 America/Dawson
-+0594600 -1201400 America/Dawson_Creek
++0554600 -1201400 America/Dawson_Creek
 +0394421 -1045903 America/Denver
 +0421953 -0830245 America/Detroit
 +0533300 -1132800 America/Edmonton
@@ -148,7 +148,6 @@
 -0644800 -0640600 Antarctica/Palmer
 -0673400 -0680800 Antarctica/Rothera
 -0720041 +0023206 Antarctica/Troll
--0782400 +1065400 Antarctica/Vostok
 +0431500 +0765700 Asia/Almaty
 +0315700 +0355600 Asia/Amman
 +0644500 +1772900 Asia/Anadyr
@@ -162,7 +161,6 @@
 +0532200 +0834500 Asia/Barnaul
 +0335300 +0353000 Asia/Beirut
 +0425400 +0743600 Asia/Bishkek
-+0045600 +1145500 Asia/Brunei
 +0520300 +1132800 Asia/Chita
 +0480400 +1143000 Asia/Choibalsan
 +0065600 +0795100 Asia/Colombo
@@ -188,7 +186,6 @@
 +0623923 +1353314 Asia/Khandyga
 +0223200 +0882200 Asia/Kolkata
 +0560100 +0925000 Asia/Krasnoyarsk
-+0031000 +1014200 Asia/Kuala_Lumpur
 +0013300 +1102000 Asia/Kuching
 +0221150 +1133230 Asia/Macau
 +0593400 +1504800 Asia/Magadan
@@ -232,7 +229,6 @@
 +0145500 -0233100 Atlantic/Cape_Verde
 +0620100 -0064600 Atlantic/Faroe
 +0323800 -0165400 Atlantic/Madeira
-+0640900 -0215100 Atlantic/Reykjavik
 -0541600 -0363200 Atlantic/South_Georgia
 -0514200 -0575100 Atlantic/Stanley
 -0345500 +1383500 Australia/Adelaide
@@ -279,7 +275,6 @@ Etc/GMT-7
 Etc/GMT-8
 Etc/GMT-9
 Etc/UTC
-+0522200 +0045400 Europe/Amsterdam
 +0423000 +0013100 Europe/Andorra
 +0462100 +0480300 Europe/Astrakhan
 +0375800 +0234300 Europe/Athens
@@ -289,23 +284,19 @@ Etc/UTC
 +0442600 +0260600 Europe/Bucharest
 +0473000 +0190500 Europe/Budapest
 +0470000 +0285000 Europe/Chisinau
-+0554000 +0123500 Europe/Copenhagen
 +0532000 -0061500 Europe/Dublin
 +0360800 -0052100 Europe/Gibraltar
 +0601000 +0245800 Europe/Helsinki
 +0410100 +0285800 Europe/Istanbul
 +0544300 +0203000 Europe/Kaliningrad
-+0502600 +0303100 Europe/Kiev
 +0583600 +0493900 Europe/Kirov
++0502600 +0303100 Europe/Kyiv
 +0384300 -0090800 Europe/Lisbon
 +0513030 +0000731 Europe/London
-+0493600 +0060900 Europe/Luxembourg
 +0402400 -0034100 Europe/Madrid
 +0355400 +0143100 Europe/Malta
 +0535400 +0273400 Europe/Minsk
-+0434200 +0072300 Europe/Monaco
 +0554521 +0373704 Europe/Moscow
-+0595500 +0104500 Europe/Oslo
 +0485200 +0022000 Europe/Paris
 +0500500 +0142600 Europe/Prague
 +0565700 +0240600 Europe/Riga
@@ -314,7 +305,6 @@ Etc/UTC
 +0513400 +0460200 Europe/Saratov
 +0445700 +0340600 Europe/Simferopol
 +0424100 +0231900 Europe/Sofia
-+0592000 +0180300 Europe/Stockholm
 +0592500 +0244500 Europe/Tallinn
 +0412000 +0195000 Europe/Tirane
 +0542000 +0482400 Europe/Ulyanovsk
@@ -327,13 +317,8 @@ Etc/UTC
 +0472300 +0083200 Europe/Zurich
 HST
 -0072000 +0722500 Indian/Chagos
--0102500 +1054300 Indian/Christmas
--0121000 +0965500 Indian/Cocos
--0492110 +0701303 Indian/Kerguelen
--0044000 +0552800 Indian/Mahe
 +0041000 +0733000 Indian/Maldives
 -0201000 +0573000 Indian/Mauritius
--0205200 +0552800 Indian/Reunion
 MET
 MST
 MST7MDT
@@ -342,12 +327,10 @@ PST8PDT
 -0365200 +1744600 Pacific/Auckland
 -0061300 +1553400 Pacific/Bougainville
 -0435700 -1763300 Pacific/Chatham
-+0072500 +1514700 Pacific/Chuuk
 -0270900 -1092600 Pacific/Easter
 -0174000 +1682500 Pacific/Efate
 -0092200 -1711400 Pacific/Fakaofo
 -0180800 +1782500 Pacific/Fiji
--0083100 +1791300 Pacific/Funafuti
 +0005400 -0893600 Pacific/Galapagos
 -0230800 -1345700 Pacific/Gambier
 -0093200 +1601200 Pacific/Guadalcanal
@@ -357,7 +340,6 @@ PST8PDT
 +0015200 -1572000 Pacific/Kiritimati
 +0051900 +1625900 Pacific/Kosrae
 +0090500 +1672000 Pacific/Kwajalein
-+0070900 +1711200 Pacific/Majuro
 -0090000 -1393000 Pacific/Marquesas
 +0003100 +1665500 Pacific/Nauru
 -0190100 -1695500 Pacific/Niue
@@ -366,12 +348,9 @@ PST8PDT
 -0141600 -1704200 Pacific/Pago_Pago
 +0072000 +1342900 Pacific/Palau
 -0250400 -1300500 Pacific/Pitcairn
-+0065800 +1581300 Pacific/Pohnpei
 -0093000 +1471000 Pacific/Port_Moresby
 -0211400 -1594600 Pacific/Rarotonga
 -0173200 -1493400 Pacific/Tahiti
 +0012500 +1730000 Pacific/Tarawa
 -0210800 -1751200 Pacific/Tongatapu
-+0191700 +1663700 Pacific/Wake
--0131800 -1761000 Pacific/Wallis
 WET
