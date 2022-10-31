@@ -142,6 +142,7 @@ N_("America/Nipigon");
 N_("America/Nome");
 N_("America/Noronha");
 N_("America/North_Dakota/Center");
+N_("America/North_Dakota/New_Salem");
 N_("America/Panama");
 N_("America/Pangnirtung");
 N_("America/Paramaribo");
