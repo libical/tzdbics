@@ -171,6 +171,7 @@ N_("Antarctica/DumontDUrville");
 N_("Antarctica/Mawson");
 N_("Antarctica/McMurdo");
 N_("Antarctica/Palmer");
+N_("Antarctica/Rothera");
 N_("Antarctica/Syowa");
 N_("Antarctica/Vostok");
 N_("Asia/Aden");
