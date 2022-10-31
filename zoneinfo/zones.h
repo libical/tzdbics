@@ -176,6 +176,7 @@ N_("Asia/Dhaka");
 N_("Asia/Dili");
 N_("Asia/Dubai");
 N_("Asia/Dushanbe");
+N_("Asia/Famagusta");
 N_("Asia/Gaza");
 N_("Asia/Hebron");
 N_("Asia/Ho_Chi_Minh");
