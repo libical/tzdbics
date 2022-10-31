@@ -14,6 +14,7 @@ N_("Africa/Maputo");
 N_("Africa/Monrovia");
 N_("Africa/Nairobi");
 N_("Africa/Ndjamena");
+N_("Africa/Sao_Tome");
 N_("Africa/Tripoli");
 N_("Africa/Tunis");
 N_("Africa/Windhoek");
