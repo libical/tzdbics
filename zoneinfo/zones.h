@@ -7,6 +7,7 @@ N_("Africa/Casablanca");
 N_("Africa/Ceuta");
 N_("Africa/El_Aaiun");
 N_("Africa/Johannesburg");
+N_("Africa/Juba");
 N_("Africa/Khartoum");
 N_("Africa/Lagos");
 N_("Africa/Maputo");
