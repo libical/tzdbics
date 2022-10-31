@@ -226,6 +226,7 @@ N_("Asia/Dubai");
 N_("Asia/Dushanbe");
 N_("Asia/Gaza");
 N_("Asia/Harbin");
+N_("Asia/Hebron");
 N_("Asia/Ho_Chi_Minh");
 N_("Asia/Hong_Kong");
 N_("Asia/Hovd");
