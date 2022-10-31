@@ -15,7 +15,7 @@ jobs:
     - uses: actions/checkout@v3
       with:
         repository: libical/vzic
-        ref: 7d8cd6a9307853da86998a8c42d88f38c525a894
+        ref: 4768ec8008a5af34f164439e605987e2933d471a
         path: build/vzic
 
     - name: Get settings into GitHub Actions
