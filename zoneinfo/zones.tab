@@ -221,6 +221,7 @@
 +0354000 +0512600 Asia/Tehran
 +0272800 +0893900 Asia/Thimphu
 +0353916 +1394441 Asia/Tokyo
++0563000 +0845800 Asia/Tomsk
 +0475500 +1065300 Asia/Ulaanbaatar
 +0434800 +0873500 Asia/Urumqi
 +0643337 +1431336 Asia/Ust-Nera
@@ -300,6 +301,7 @@ Etc/UTC
 +0410100 +0285800 Europe/Istanbul
 +0544300 +0203000 Europe/Kaliningrad
 +0502600 +0303100 Europe/Kiev
++0583600 +0493900 Europe/Kirov
 +0384300 -0090800 Europe/Lisbon
 +0513030 +0000731 Europe/London
 +0493600 +0060900 Europe/Luxembourg
