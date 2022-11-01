@@ -2,7 +2,7 @@ name: Build and run on GitHub Actions
 
 on:
   push:
-    branches: [ "*" ]
+    branches: [ "**" ]
 
 jobs:
   build:
@@ -26,7 +26,18 @@ jobs:
     - name: Run build script
       run: ./build.sh
 
+    - name: Check, whether anything has changed.
+      run: |
+        if [[ `git status --porcelain` ]]; then
+          echo "File changes detected. Will commit and push."
+          echo "VZIC_PUSH_CHANGES=1" >> $GITHUB_ENV
+        else
+          echo "No file changes detected."
+          echo "VZIC_PUSH_CHANGES=0" >> $GITHUB_ENV
+        fi
+
     - name: Commit and push changes
+      if: ${{ env.VZIC_PUSH_CHANGES == 1 }}
       run: |
           git config --global user.name 'GitHub Actions'
           git config --global user.email 'tzdbics@users.noreply.github.com'
@@ -35,6 +46,7 @@ jobs:
           git push
 
     - name: Archive artifacts
+      if: ${{ env.VZIC_PUSH_CHANGES == 1 }}
       uses: actions/upload-artifact@v3
       with:
         name: tzdbics_${{ env.VZIC_RELEASE_NAME }}
