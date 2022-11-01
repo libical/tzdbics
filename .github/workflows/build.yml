@@ -2,7 +2,7 @@ name: Build and run on GitHub Actions
 
 on:
   push:
-    branches: [ "*" ]
+    branches: [ "**" ]
 
 jobs:
   build:
