@@ -37,12 +37,12 @@ if [[ ${VZIC_TZDATA_ARCHIVE_PATH} ]]; then
 fi
 
 echo "Building vzic"
-make -C `pwd`/build/vzic -B OLSON_DIR=tzdata PRODUCT_ID="$VZIC_PRODID" TZID_PREFIX="$VZIC_TZID_PREFIX"
+eval "make -C '`pwd`/build/vzic' -B OLSON_DIR=tzdata $VZIC_MAKE_ARGS"
 
 echo "Running vzic"
 if [ -d build/zoneinfo ]; then rm -r build/zoneinfo; fi
 mkdir -p build/zoneinfo
-./build/vzic/vzic --olson-dir tzdata --output-dir build/zoneinfo --pure
+eval "./build/vzic/vzic --olson-dir tzdata --output-dir build/zoneinfo $VZIC_INVOCATION_ARGS"
 
 export VZIC_ZONEINFO_NEW=`pwd`/build/zoneinfo
 
