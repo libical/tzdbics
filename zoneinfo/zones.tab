@@ -48,6 +48,7 @@
 +0045600 -0522000 America/Cayenne
 +0415100 -0873900 America/Chicago
 +0283800 -1060500 America/Chihuahua
++0314400 -1062900 America/Ciudad_Juarez
 +0095600 -0840500 America/Costa_Rica
 -0153500 -0560500 America/Cuiaba
 +0764600 -0184000 America/Danmarkshavn
@@ -109,7 +110,6 @@
 +0641100 -0514400 America/Nuuk
 +0293400 -1042500 America/Ojinaga
 +0085800 -0793200 America/Panama
-+0660800 -0654400 America/Pangnirtung
 +0055000 -0551000 America/Paramaribo
 +0332654 -1120424 America/Phoenix
 +0183200 -0722000 America/Port-au-Prince
