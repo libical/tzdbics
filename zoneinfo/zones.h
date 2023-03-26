@@ -137,7 +137,6 @@ N_("America/Vancouver");
 N_("America/Whitehorse");
 N_("America/Winnipeg");
 N_("America/Yakutat");
-N_("America/Yellowknife");
 N_("Antarctica/Casey");
 N_("Antarctica/Davis");
 N_("Antarctica/Macquarie");
