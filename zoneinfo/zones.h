@@ -144,6 +144,7 @@ N_("Antarctica/Mawson");
 N_("Antarctica/Palmer");
 N_("Antarctica/Rothera");
 N_("Antarctica/Troll");
+N_("Antarctica/Vostok");
 N_("Asia/Almaty");
 N_("Asia/Amman");
 N_("Asia/Anadyr");
