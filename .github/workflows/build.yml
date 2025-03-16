@@ -18,6 +18,9 @@ jobs:
         ref: 4768ec8008a5af34f164439e605987e2933d471a
         path: build/vzic
 
+    - name: Install dependencies
+      run: sudo apt-get update && sudo apt-get install -y libglib2.0-dev
+
     - name: Get settings into GitHub Actions
       run: |
         . ./settings.config
