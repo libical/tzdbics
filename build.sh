@@ -50,7 +50,7 @@ if [[ -d zoneinfo ]]; then
     export VZIC_ZONEINFO_MASTER=`pwd`/zoneinfo
 
     echo "Merging..."
-    ./vzic-merge.pl
+    ./build/vzic/vzic-merge.pl
 
     # copy updated zones
     cp -r $VZIC_ZONEINFO_NEW/zones.* $VZIC_ZONEINFO_MASTER 
