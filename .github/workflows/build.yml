@@ -11,12 +11,8 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
-
-    - uses: actions/checkout@v3
       with:
-        repository: libical/vzic
-        ref: a4e030343e015d268fc26fad4365b6061a17791d
-        path: build/vzic
+        submodules: true
 
     - name: Install dependencies
       run: sudo apt-get update && sudo apt-get install -y libglib2.0-dev
