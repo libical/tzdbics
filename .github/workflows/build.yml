@@ -15,7 +15,7 @@ jobs:
     - uses: actions/checkout@v3
       with:
         repository: libical/vzic
-        ref: 4768ec8008a5af34f164439e605987e2933d471a
+        ref: a4e030343e015d268fc26fad4365b6061a17791d
         path: build/vzic
 
     - name: Install dependencies
