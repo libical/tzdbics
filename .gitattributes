@@ -2,4 +2,11 @@
 # don't modify the line endings of generated zoneinfo files (they use CRLF according to the specification).
 /zoneinfo/**/*.ics text eol=crlf
 
+/tzdb_version.txt text eol=lf
+/zoneinfo/zones.h text eol=lf
+/zoneinfo/zones.tab text eol=lf
+
+/tzdata/** text eol=lf
+
 /settings.config text eol=lf
+/*.sh text eol=lf
