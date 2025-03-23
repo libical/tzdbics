@@ -50,6 +50,7 @@ N_("America/Chicago");
 N_("America/Chihuahua");
 N_("America/Ciudad_Juarez");
 N_("America/Costa_Rica");
+N_("America/Coyhaique");
 N_("America/Cuiaba");
 N_("America/Danmarkshavn");
 N_("America/Dawson");
