@@ -239,6 +239,8 @@
 -0374900 +1445800 Australia/Melbourne
 -0315700 +1155100 Australia/Perth
 -0335200 +1511300 Australia/Sydney
+CST6CDT
+EST5EDT
 Etc/GMT
 Etc/GMT+1
 Etc/GMT+10
@@ -308,6 +310,8 @@ Etc/UTC
 -0072000 +0722500 Indian/Chagos
 +0041000 +0733000 Indian/Maldives
 -0201000 +0573000 Indian/Mauritius
+MST7MDT
+PST8PDT
 -0135000 -1714400 Pacific/Apia
 -0365200 +1744600 Pacific/Auckland
 -0061300 +1553400 Pacific/Bougainville
